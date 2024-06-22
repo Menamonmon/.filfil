@@ -1,0 +1,135 @@
+{
+  "headwind.runOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.selectionHighlight": false,
+  "editor.semanticHighlighting.enabled": false,
+  "files.autoSave": "afterDelay",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "liveServer.settings.root": "/",
+  "python.languageServer": "Default",
+  "workbench.statusBar.visible": true,
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "off",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "html": "html",
+    "plaintext": "jade"
+  },
+
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4
+  },
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#64FFDA",
+    "activityBar.activeBorder": "#64FFDA",
+    "list.activeSelectionForeground": "#64FFDA",
+    "list.inactiveSelectionForeground": "#64FFDA",
+    "list.highlightForeground": "#64FFDA",
+    "scrollbarSlider.activeBackground": "#64FFDA50",
+    "editorSuggestWidget.highlightForeground": "#64FFDA",
+    "textLink.foreground": "#64FFDA",
+    "progressBar.background": "#64FFDA",
+    "pickerGroup.foreground": "#64FFDA",
+    "tab.activeBorder": "#64FFDA",
+    "notificationLink.foreground": "#64FFDA",
+    "editorWidget.resizeBorder": "#64FFDA",
+    "editorWidget.border": "#64FFDA",
+    "settings.modifiedItemIndicator": "#64FFDA",
+    "settings.headerForeground": "#64FFDA",
+    "panelTitle.activeBorder": "#64FFDA",
+    "breadcrumb.activeSelectionForeground": "#64FFDA",
+    "menu.selectionForeground": "#64FFDA",
+    "menubar.selectionForeground": "#64FFDA",
+    "editor.findMatchBorder": "#64FFDA",
+    "selection.background": "#64FFDA40",
+    "statusBarItem.remoteBackground": "#64FFDA"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "python.autoComplete.addBrackets": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "prettier.tabWidth": 2,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "html.suggest.html5": true,
+  "html.autoClosingTags": true,
+  "editor.linkedEditing": true,
+  "html.validate.scripts": true,
+  "html.validate.styles": true,
+  "python.formatting.provider": "black",
+  "editor.cursorStyle": "line",
+  "editor.insertSpaces": false,
+  "editor.lineNumbers": "on",
+  "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+  "github.gitAuthentication": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.autoClosingBrackets": "always",
+  "tabnine.experimentalAutoImports": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "python.analysis.completeFunctionParens": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.detectIndentation": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": false,
+    "minispec": true,
+    "c": false
+  },
+  "npm.keybindingsChangedWarningShown": true,
+  "workbench.colorTheme": "Material Theme High Contrast",
+  "git.autofetch": true,
+  "window.zoomLevel": -1,
+  "liveshare.notebooks.allowGuestExecuteCells": true,
+  "cmake.showOptionsMovedNotification": false,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "terminal.integrated.persistentSessionScrollback": 10000,
+  "terminal.integrated.scrollback": 1000000000,
+  "jupyter.logging.level": "error",
+  "sshfs.configs": [
+    {
+      "name": "satori-cv-final"
+    },
+    {
+      "name": "engaging"
+    },
+    {
+      "name": "swarm",
+      "host": "192.168.0.148",
+      "username": "swarm",
+      "password": "uavswarm"
+    }
+  ],
+  "git.ignoreLegacyWarning": true
+}
